@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Config
 CSV_FILE = "attendance.csv"
-ADMIN_PASSWORD = "admin123"  # Change this for security
+ADMIN_PASSWORD = "Swecha@SOAI"  # Change this for security
 
 # UI
 st.set_page_config("AI Attendance System", layout="centered")
